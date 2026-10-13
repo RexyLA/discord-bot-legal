@@ -1,4 +1,4 @@
-# Dimas Bot
+# POLYDEPT Bot
 
 A custom Discord bot designed to help manage servers and simplify moderation tasks.
 
